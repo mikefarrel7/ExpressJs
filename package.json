@@ -1,0 +1,26 @@
+{
+  "name": "norbitexpressjs",
+  "version": "0.0.1",
+  "description": "norbit express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2",
+    "fast-csv": "^4.3.6",
+    "json2csv": "^5.0.7",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^2.3.3",
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.5",
+    "socket.io": "^4.5.3"
+  }
+}
