@@ -3,7 +3,7 @@ const pool = new Pool({
     user:'postgres',
     host:'localhost',
     database:'line_track_norbit_db',
-    password:'memikat',
+    password:'password',
     port:5432
 });
 
